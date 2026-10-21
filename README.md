@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="./assets/hacker-banner.png" width="100%" alt="Sai Ram Krishna Hacker Banner"/>
+
+<img src="./hacker-banner.png" width="100%" alt="Sai Ram Krishna Hacker Banner"/>
+
 
 <br/>
 
